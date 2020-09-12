@@ -3,4 +3,4 @@
 My name is Mateusz Świder and I'm a Junior Full Stack Developer.
 I invite you to see my latest projects:
 * [COVID Info and stats](https://github.com/Mativve/covid-info-and-stats)
-* [DecoGenerator](https://mativve.github.io/DecoGenerator/)
+* [DecoGenerator](https://github.com/Mativve/DecoGenerator)
