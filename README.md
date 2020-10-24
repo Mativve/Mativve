@@ -7,3 +7,4 @@ I know & develop in HTML5, CSS3, JS(+jQuery, Vue - learning in progress), PHP, M
 I invite you to see my latest projects:
 * [COVID Info and stats](https://github.com/Mativve/covid-info-and-stats)
 * [DecoGenerator](https://github.com/Mativve/DecoGenerator)
+* [Idena Address Monitor](https://github.com/Mativve/Idena-Address-Monitor)
