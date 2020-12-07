@@ -2,7 +2,7 @@
 
 My name is Mateusz Świder and I'm a Junior Full Stack Developer.
 
-I know & develop in HTML5, CSS3, JS(+jQuery, Vue - learning in progress), PHP, MySQL, WordPress
+I know & and still develop my knowledge in HTML5, CSS3, JS(+jQuery, Vue - learning in progress), PHP, MySQL, WordPress
 
 I invite you to see my latest projects:
 * [COVID Info and stats](https://github.com/Mativve/covid-info-and-stats)
